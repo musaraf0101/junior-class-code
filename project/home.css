@@ -1,0 +1,16 @@
+footer{
+    background-color: rgba(0, 0, 0,0.7);
+    width:100vw;
+    height: 50px;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    text-transform: capitalize;
+}
+/*
+view port width - vw
+view port height - vh
+mm
+cm
+px
+*/

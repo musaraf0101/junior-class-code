@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contact{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 40px;
+    padding-top: 10px;
+}
+.contact:hover{
+    color: orangered;
+    transition: 0.5s;
+}
+iframe{
+    width: 50%;
+    height: 300px;
+}
