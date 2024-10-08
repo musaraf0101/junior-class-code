@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite;
+}
+table{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50%;
+    transform: translateY(-50%);
+}
+/* td{
+    background-color: orangered;
+    width: 100px;
+} */
+
+input{
+    border: none;
+    border-radius: 2px;
+    background-color: rgba(0, 0, 0,0.3);
+    padding: 5px;
+}
+button{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}

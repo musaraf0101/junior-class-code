@@ -1,0 +1,15 @@
+body{
+    background-color: rgba(0, 0, 0,0.7);
+}
+.box{
+    
+}
+.box h2{
+    color: white;
+}
+ul li{
+    display: inline;
+}
+ul li a{
+    text-decoration: none;
+}
