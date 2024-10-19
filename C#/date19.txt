@@ -1,0 +1,24 @@
+        int a = 10;
+        int b = 20;
+        int c = 30;
+        
+        int d = a++ + --b + b-- + ++c;
+        
+        /*
+        a++;
+        1st step -> print a=10; 
+        2nd step -> increment memory a=11;
+        
+        --b;
+        1st step -> decrement
+        2nd step -> b =19;
+        
+        b--;
+        1st step -> print b=19;
+        2nd step -> decrement memory b=18
+        
+        ++c;
+        1st step -> increment c=31
+        2nd step -> print
+        
+        */
